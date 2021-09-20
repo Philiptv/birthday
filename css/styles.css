@@ -65,7 +65,7 @@ background-size: 100% ;
 }
 
 .skill-row {
-  width: 75%;
+  width: 50%;
   margin: 100px auto 300px auto;
   text-align: left;
 }
@@ -103,13 +103,13 @@ background-size: 100% ;
 }
 
 .code-img {
-  width: 50%;
+  width: 30%;
   float: left;
   margin-right: 30px;
 }
 
 .chilli-img {
-  width: 50%;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
