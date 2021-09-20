@@ -56,7 +56,7 @@ a:hover {
 
 .middle-container {
   background-image: url(image/back.jpg);
-background-size: 100%;
+background-size: 100% auto;
  
 }
 
